@@ -193,3 +193,43 @@ slice := make([]int,5)
 
 slice = append(slice,10) // slice'a 10 değerini ekleme
 ```
+
+### Map
+
+Mapler `key:value` şeklinde değer tutan veri tipleridir.
+
+
+```go
+var map_1 map[int]string
+```
+
+Go'da mapler referans tutuculardır, ve `map_1` değişkeni ise daha referans atanmadığı için `nil`dir.
+Eğer map tanımlaması yapılacaksa doğru olan `make()` fonksiyonu ile kullanılmasıdır.
+
+```go
+map_2 = make(map[string]int)
+```
+
+> Daha fazla bilgiye [buradan](https://go.dev/blog/maps) ulaşabilirsiniz
+
+#### Değer atama
+
+```go
+map_1 := make(map[string]int)
+
+map_1["test"] = 1
+```
+
+#### Değer silme
+
+Maplerde değer silme işlemi `delete()` fonksiyonu ile yapılır.
+
+```go
+delete(map_1, 2)
+```
+
+#### Değer kontrol etme
+
+```go
+name, exists := names[0]    // exists: bool tipinde bir değişkendir
+```
