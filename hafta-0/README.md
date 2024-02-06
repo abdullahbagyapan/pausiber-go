@@ -44,3 +44,22 @@ Popülerliği giderek artan Go ile birçok şey yapabilirsiniz.
 - Otomasyon uygulamaları
 
 > Daha detaylı bilgi için [**Go Use Cases**](https://go.dev/solutions/use-cases)
+
+## Go Kurulumu
+
+**1 -** Go'nun sitesinden bilgisayarınıza uygun olan setup'ı indirin.
+[https://go.dev/dl/](https://go.dev/dl/)
+
+<img>
+
+**2 -** İndirilen setup'ı açın.
+
+<img>
+
+**3 -** Ardından next next next diyerek kurulumu tamamlayın :) ..
+
+<img>
+
+**4 -** Ve yükleme işlemi tamamlandı.
+
+<img>
