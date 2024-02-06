@@ -22,6 +22,18 @@ Tasarımında göz önünde bulunan özellikler: statik yazım ve çalışma hı
 
 > Daha detaylı bilgi için [**Go (programming language)**](https://en.wikipedia.org/wiki/Go_(programming_language)), [**Frequently Asked Questions (FAQ)**](https://go.dev/doc/faq)
 
+## Neden Go Kullanmalıyım ?
+
+Bu bir tercih meselesi. programlama dili yapmak istedikleriniz için bir araçtır. **Sizin için en doğru araç, amacınıza en uygun olan araçtır.**
+
+Go'nun size sağlayacağı birçok avantaj var.
+
+- **Basit** olması.
+- Günümüzün problemlerine **çözüm** olarak üretilmesi.
+- **Hızlı ve kararlı** olması.
+- Açık kaynak olduğu için, **sorun tespitinin ve çözümünün oldukça hızlı olması**.  
+- Yardım bulabilmeniz için birçok **topluluğun** (community) olması.
+
 ## Go İle Ne Yapabilirim ?
 
 Popülerliği giderek artan Go ile birçok şey yapabilirsiniz.
