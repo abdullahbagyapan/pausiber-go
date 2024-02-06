@@ -82,3 +82,59 @@ Go 101, Go dilinin temel pratiklerini içeren örnekleri anlatır.
 - Errors
 - Interfaces
 - Modules
+
+
+### Değişkenler
+
+Go dilinde farklı şekillerde değişken tanımı yapılabilir.
+
+
+#### *Var* kullanarak
+
+```go
+var name string
+
+func main() {
+    var sayi = 1
+    var pau = "siber"
+    var go = "lang"
+}
+```
+
+#### *Const* kullanarak
+
+```go
+const PI = 3.14
+
+func main() {
+    PI = 3  // değiştirilemez (immutable)
+}
+```
+
+#### ":=" operatörü kullanarak
+
+Herhangi bir *tip* tanımlaması yapmak zorunda kalmadan değişken tanımlanabilir.
+
+> Not: Fonksiyonların dışında **kullanılamaz**.
+
+```go
+func main() {
+    name := "GO PAUSIBER"
+}
+```
+
+#### Çoklu tanımlama
+
+Birden fazla değişken tanımlanmak istendiği zaman kullanılır.
+
+```go
+var(
+    id  int
+    name string
+)
+
+const(
+    PI      float = 3.14
+    GRAVITY float = 9.8
+)
+```
