@@ -159,3 +159,37 @@ func main() {
 ```go
 arr_6[0] = 10
 ```
+
+### Slice
+
+Slicelar temelde arrayler ile aynılardır ancak arraylerden <b>daha etkili ve esnek</b> bir veri tipleridir.
+
+```go
+var slice []int
+```
+
+veya:
+
+```go
+slice := make([]int,5)
+```
+
+#### Slice'ın yapısı
+
+Slicelar temelde 3 farklı yapıdan oluşur:
+
+- `ptr` - arrayi tutan işaretçi(*pointer*).
+- `len` - slice'in uzunluğu - slice'daki eleman sayısı.
+- `cap` - slice'in kapasitesi - işaretçide tutulan arrayin uzunluğu, ayrıca slice'in maksimum uzunluğu.
+
+<img src="../images/hafta-0/go_slice.png">
+
+#### Değer atama
+
+Slicelarda değer eklerken arraylerden farklı olarak `append()` fonksiyonu kullanılır.
+
+```go
+slice := make([]int,5)
+
+slice = append(slice,10) // slice'a 10 değerini ekleme
+```
