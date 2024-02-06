@@ -6,3 +6,8 @@ tag: golang
 author: Abdullah Bagyapan
 ---
 
+# Hafta 0
+
+**Amaç :** Go programlama dilininin tanıtımı. Gerekli kurulumların gerçekleştirilmesi.
+
+**Yazarlar :** [**Abdullah Bagyapan**](https://github.com/abdullahbagyapan)
