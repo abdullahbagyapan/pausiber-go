@@ -138,3 +138,24 @@ const(
     GRAVITY float = 9.8
 )
 ```
+
+### Array
+
+```go
+var arr_3 [3]int
+var arr_5 = [5]int{1, 2, 3, 4, 5}
+```
+
+#### 'make()' fonksiyonu kullanarak
+
+```go
+func main() {
+	arr_6 := make([]int, 6)
+}
+```
+
+#### Değer atama
+
+```go
+arr_6[0] = 10
+```
