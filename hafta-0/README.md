@@ -63,3 +63,22 @@ Popülerliği giderek artan Go ile birçok şey yapabilirsiniz.
 **4 -** Ve yükleme işlemi tamamlandı.
 
 <img>
+
+## Go 101
+
+Go 101, Go dilinin temel pratiklerini içeren örnekleri anlatır.
+
+### Bölümler
+
+- Değişkenler
+- Array
+- Slice
+- Map
+- String
+- Döngüler
+- Struct
+- Pointer
+- Fonksiyonlar
+- Errors
+- Interfaces
+- Modules
