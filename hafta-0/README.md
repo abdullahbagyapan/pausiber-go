@@ -11,3 +11,13 @@ author: Abdullah Bagyapan
 **Amaç :** Go programlama dilininin tanıtımı. Gerekli kurulumların gerçekleştirilmesi.
 
 **Yazarlar :** [**Abdullah Bagyapan**](https://github.com/abdullahbagyapan)
+
+## Go Nedir ?
+
+Golang olarakta bilinen Go, açık kaynaklı ve derlenmiş bir programlama dilidir.
+
+Go, programlama verimliliğini artırmak için 2007 yılında Google'da Robert Griesemer, Rob Pike ve Ken Thompson tarafından tasarlandı.
+
+Tasarımında göz önünde bulunan özellikler: statik yazım ve çalışma hızı, okunabilirlik ve kullanılabilirlik, çoklu işlemler için yüksek performans.
+
+> Daha detaylı bilgi için [**Go (programming language)**](https://en.wikipedia.org/wiki/Go_(programming_language)), [**Frequently Asked Questions (FAQ)**](https://go.dev/doc/faq)
