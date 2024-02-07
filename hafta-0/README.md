@@ -79,7 +79,6 @@ Go 101, Go dilinin temel pratiklerini içeren örnekleri anlatır.
 - Pointer
 - Fonksiyonlar
 - Errors
-- Interfaces
 - Modules
 
 
