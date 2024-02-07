@@ -74,7 +74,6 @@ Go 101, Go dilinin temel pratiklerini içeren örnekleri anlatır.
 - Array
 - Slice
 - Map
-- String
 - Döngüler
 - Struct
 - Pointer
