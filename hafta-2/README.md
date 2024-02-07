@@ -6,7 +6,7 @@ tag: golang
 author: Abdullah Bagyapan
 ---
 
-# Hafta 1
+# Hafta 2
 
 **Amaç :** Go ile web uygulaması yapılması.
 
