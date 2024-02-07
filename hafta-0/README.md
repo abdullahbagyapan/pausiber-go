@@ -233,3 +233,16 @@ delete(map_1, 2)
 ```go
 name, exists := names[0]    // exists: bool tipinde bir değişkendir
 ```
+
+
+## Bu Hafta Neler Yaptık ?
+
+- Go'nun ne olduğunu öğrendik.
+- Go'yu neden kullanmamız gerektiğini ve Go ile neler yapabileceğimizi öğrendik.
+- Değişken ve veri tiplerinden bahsettik.
+- Farklı değişken tanımlamalarını nerde ve ne zaman kullanacağımızı öğrendik.
+- Arrayleri ile listeler yaptık.
+- Sliceların yapısını gördük, arraylerden farklarını öğrendik.
+- Mapin ne olduğu ve neden kullanıldığını gördük.
+
+**Haftaya Görüşmek Üzere!** 
